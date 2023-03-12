@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.tip.Stage3UnitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-12T10:30:46" hostname="MacBook-Pro-Ahmet.local" time="3.217">
+  <properties/>
+  <testcase name="test00_checkTipWithEmptyValue" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="2.805"/>
+  <testcase name="test01_checkValueWithInitialTip" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.099"/>
+  <testcase name="test02_checkBothValueAndTipWithSliderListenerLast" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.064"/>
+  <testcase name="test03_checkEditTextListenerLast" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.045"/>
+  <testcase name="test04_checkLargeValue" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.04"/>
+  <testcase name="test05_checkDecimalValue" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.058"/>
+  <testcase name="test06_checkClearingValue" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.038"/>
+  <testcase name="test07_check101TipsForValue100" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.068"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK '/Users/davud/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

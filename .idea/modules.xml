@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip_Calculator4.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip_Calculator4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator4.Tip_Calculator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator4.Tip_Calculator-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator4.Tip_Calculator-task.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator4.Tip_Calculator-task.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator4.Tip_Calculator-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator4.Tip_Calculator-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator4.Tip_Calculator-task.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip Calculator/task/Tip_Calculator4.Tip_Calculator-task.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Assignments/Tip_Calculator4.Topics-Values_and_variables-Assignments.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Assignments/Tip_Calculator4.Topics-Values_and_variables-Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Correct statements about variables in Kotlin/Tip_Calculator4.Topics-Values_and_variables-Correct_statements_about_variables_in_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Correct statements about variables in Kotlin/Tip_Calculator4.Topics-Values_and_variables-Correct_statements_about_variables_in_Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Declaring a mutable variable/Tip_Calculator4.Topics-Values_and_variables-Declaring_a_mutable_variable.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Declaring a mutable variable/Tip_Calculator4.Topics-Values_and_variables-Declaring_a_mutable_variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Fix the program/Tip_Calculator4.Topics-Values_and_variables-Fix_the_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Fix the program/Tip_Calculator4.Topics-Values_and_variables-Fix_the_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Theory/Tip_Calculator4.Topics-Values_and_variables-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Theory/Tip_Calculator4.Topics-Values_and_variables-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Very Big Number/Tip_Calculator4.Topics-Values_and_variables-Very_Big_Number.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Very Big Number/Tip_Calculator4.Topics-Values_and_variables-Very_Big_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tip_Calculator4.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tip_Calculator4.util.iml" />
+    </modules>
+  </component>
+</project>

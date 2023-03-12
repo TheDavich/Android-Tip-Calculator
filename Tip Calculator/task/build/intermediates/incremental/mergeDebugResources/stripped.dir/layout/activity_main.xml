@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="211dp"
+        android:layout_height="63dp"
+        android:layout_marginStart="101dp"
+        android:layout_marginBottom="86dp"
+        android:ems="10"
+        android:inputType="number|numberDecimal"
+        app:layout_constraintBottom_toTopOf="@+id/slider"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <com.google.android.material.slider.Slider
+        android:id="@+id/slider"
+        android:layout_width="214dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="98dp"
+        android:layout_marginBottom="390dp"
+        android:stepSize="1"
+        android:valueFrom="0"
+        android:valueTo="100"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="199dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="106dp"
+        android:layout_marginBottom="230dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

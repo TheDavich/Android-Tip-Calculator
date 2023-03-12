@@ -1,0 +1,4 @@
+#Sun Mar 12 11:31:21 CET 2023
+base.0=/Users/davud/StudioProjects/Tip Calculator4/Tip Calculator/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
